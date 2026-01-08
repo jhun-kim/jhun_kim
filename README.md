@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20[JH_KIM]&fontSize=70" />
 </div>
@@ -48,15 +49,15 @@
 
 ## 📊 GitHub Stats (Real-time)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[jhun_kim]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[jhun_kim]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhun_kim&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhun_kim&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 <br>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[jhun_kim]&theme=react-dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhun_kim&theme=react-dark" width="100%" />
 </div>
 
 <br>
@@ -71,5 +72,8 @@
 <br>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[jhun_kim]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[jhun-kim]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
+=======
+"# jhun_kim" 
+>>>>>>> parent of fa95655 (feat: 프로필 기술 스택 위젯 추가)
