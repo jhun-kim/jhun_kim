@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20[이름]&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20[JH_KIM]&fontSize=70" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 ## 📌 Introduction
 > **"자율적인 사고와 행동을 설계하는 에이전트 개발자 지망생입니다."**
 
-- 🎓 **Education:** [교육기관명] AI 에이전트 개발 과정 (2025.xx ~ 현재)
+- 🎓 **Education:** [새싹X업스테이지] AI 에이전트 개발 과정 (2025.12 ~ 현재)
 - 🔭 **Focus:** LangGraph를 활용한 워크플로우 제어, Agentic RAG 고도화
 - 💬 **Interests:** 자율형 업무 자동화, LLM 기반 멀티 에이전트 협업 시스템
 - 📫 **Contact:** `[이메일주소]`
@@ -48,15 +48,15 @@
 
 ## 📊 GitHub Stats (Real-time)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인ID]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[jhun_kim]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[jhun_kim]&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 <br>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[본인ID]&theme=react-dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[jhun_kim]&theme=react-dark" width="100%" />
 </div>
 
 <br>
@@ -71,5 +71,5 @@
 <br>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[본인ID]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[jhun_kim]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
