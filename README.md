@@ -48,8 +48,7 @@
 
 ## 📊 GitHub Stats (Real-time)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhun-kim&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhun-kim&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhun-kim&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 <br>
