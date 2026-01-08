@@ -48,15 +48,15 @@
 
 ## 📊 GitHub Stats (Real-time)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[jhun-kim]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[jhun-kim]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhun-kim&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhun-kim&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 <br>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[jhun-kim]&theme=react-dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhun-kim&theme=react-dark" width="100%" />
 </div>
 
 <br>
