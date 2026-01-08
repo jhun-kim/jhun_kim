@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats (Real-time)
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhun-kim&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhun-kim&theme=default" alt="GitHub Streak Stats" />
 </div>
 
 <br>
