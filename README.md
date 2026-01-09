@@ -14,7 +14,7 @@
 - 🎓 **Education:** [새싹 x 업스테이지] AI 에이전트 개발 과정 (2025.12 ~ 현재)
 - 🔭 **Focus:** LangGraph를 활용한 워크플로우 제어, Agentic RAG 고도화
 - 💬 **Interests:** 자율형 업무 자동화, LLM 기반 멀티 에이전트 협업 시스템
-- 📫 **Contact:** `[gyjh486@gmailcom]`
+
 
 <br>
 
