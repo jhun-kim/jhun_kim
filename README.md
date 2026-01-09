@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20[jhun-kim]&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20jhun-kim&fontSize=70" />
 </div>
 
 <div align="center">
@@ -11,10 +11,10 @@
 ## 📌 Introduction
 > **"자율적인 사고와 행동을 설계하는 에이전트 개발자 지망생입니다."**
 
-- 🎓 **Education:** [교육기관명] AI 에이전트 개발 과정 (2025.xx ~ 현재)
+- 🎓 **Education:** [새싹 x 업스테이지] AI 에이전트 개발 과정 (2025.12 ~ 현재)
 - 🔭 **Focus:** LangGraph를 활용한 워크플로우 제어, Agentic RAG 고도화
 - 💬 **Interests:** 자율형 업무 자동화, LLM 기반 멀티 에이전트 협업 시스템
-- 📫 **Contact:** `[이메일주소]`
+- 📫 **Contact:** `[gyjh486@gmailcom]`
 
 <br>
 
